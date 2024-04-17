@@ -14,6 +14,6 @@ term.setTextColor(colors.white)
 for i = 0,10,1 do
     for j = 0,10,1 do
     term.setCursorPos(i,j)
-    term.write(i "," j)
+    term.write(i , j)
     end
 end

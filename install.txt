@@ -5,3 +5,5 @@ SirQuackzz/CC-Roulette/main/slots.lua
 slots.lua
 SirQuackzz/CC-Roulette/main/board.nfp
 board.nfp
+SirQuackzz/CC-Roulette/main/image.lua
+image.lua
